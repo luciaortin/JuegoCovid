@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+<fullyQualifiedTypeName name="Sliders"/>
+<fullyQualifiedTypeName name="Sliders.SliderListener"/>
+<fullyQualifiedTypeName name="PanelJuego"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="javax.lang.model.type.IntersectionType"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>
